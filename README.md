@@ -1,27 +1,27 @@
 <h1 align="center">Ryu Parish 龍</h1>
 <h3 align="center">An undergraduate NLP researcher at the University of Washington</h3>
 
-- 🔭 I’m currently working on **a NLP paper with a PhD student**
+- 🔭 I’m currently working on **a NLP paper with Ellen Wu @ H2Lab**
 
-- 🌱 I’m currently learning **Natural Language Processing and Algorithms**
+- 🌱 I’m currently learning **Language Modeling, Question Answering, and Knowledge Representation**
 
-- 👯 I’m looking to collaborate on **research papers that are meaningful**
+- 👯 I’m looking to collaborate on **any of the above mentioned topics**
 
-- 🤝 I’m looking for help with **finding the best researchers to work with**
+- 🤝 I’m looking for help with ****
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryuparish](https://github.com/ryuparish)
 
 - 🔗 Look at my LinkedIn profile at [https://www.linkedin.com/in/ryu-parish-b8894b15b/](https://www.linkedin.com/in/ryu-parish-b8894b15b/)
 
-- 📫 How to reach me **rparish@cs.washington.edu**
+- 📫 How to reach me **rparish[cat - c]cs.washington.edu**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ryu-parish-b8894b15b/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACZnsNgBhKMU-LbdJ3v8zk_4zo5n3ssb8HY,1635478827654)/](https://www.linkedin.com/in/ryu-parish-b8894b15b/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACZnsNgBhKMU-LbdJ3v8zk_4zo5n3ssb8HY,1635478827654)/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ryu-parish-b8894b15b/detail/overlay-view/urn:li:fsd_profiletreasurymedia:(acoaacznsngbhkmu-lbdj3v8zk_4zo5n3ssb8hy,1635478827654)/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryu-parish-b8894b15b/detail/overlay-view/urn:li:fsd_profiletreasurymedia:(acoaacznsngbhkmu-lbdj3v8zk_4zo5n3ssb8hy,1635478827654)/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14574142/ryu-parish?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14574142/ryu-parish?tab=profile" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ryuparish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ryuparish/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ryu-parish-b8894b15b/detail/overlay-view/urn:li:fsd_profiletreasurymedia:(acoaacznsngbhkmu-lbdj3v8zk_4zo5n3ssb8hy,1635478827654)/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryu-parish-b8894b15b/detail/overlay-view/urn:li:fsd_profiletreasurymedia:(acoaacznsngbhkmu-lbdj3v8zk_4zo5n3ssb8hy,1635478827654)/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14574142/ryu-parish?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14574142/ryu-parish?tab=profile" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ryuparish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ryuparish/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
