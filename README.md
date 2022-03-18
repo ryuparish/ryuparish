@@ -1,7 +1,7 @@
 <h1 align="center">Ryu Parish 龍</h1>
 <h3 align="center">An undergraduate NLP researcher at the University of Washington</h3>
 
-- 💼 I’m currently working on **a NLP paper under Ellen Wu @ H2Lab**
+- 💼 I’m currently working on **under Ellen Wu @ H2Lab**
 
 - ✍🏻 I’m currently learning **Language Modeling, Question Answering, and Knowledge Representation**
 
