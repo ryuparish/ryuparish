@@ -1,13 +1,11 @@
 <h1 align="center">Ryu Parish 龍</h1>
 <h3 align="center">An undergraduate NLP researcher at the University of Washington</h3>
 
-- 🔭 I’m currently working on **a NLP paper with Ellen Wu @ H2Lab**
+- 💼 I’m currently working on **a NLP paper with Ellen Wu @ H2Lab**
 
-- 🌱 I’m currently learning **Language Modeling, Question Answering, and Knowledge Representation**
+- ✍🏻 I’m currently learning **Language Modeling, Question Answering, and Knowledge Representation**
 
-- 👯 I’m looking to collaborate on **any of the above mentioned topics**
-
-- 🤝 I’m looking for help with ****
+- 🤝 I’m looking to collaborate on **any of the above mentioned topics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryuparish](https://github.com/ryuparish)
 
