@@ -3,7 +3,7 @@
 
 - 💼 I’m currently working **on my own project @ PLSE, previously @ H2lab under Ellen Wu**
 
-- 🤝 I’m looking to collaborate on **NLP related projects, even NLP involved with PL/SE**
+- 🤝 I’m looking to collaborate on **Neurosymbolic Programming related projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryuparish](https://github.com/ryuparish)
 
