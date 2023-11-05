@@ -1,5 +1,5 @@
 <h1 align="center">Ryu Parish 龍</h1>
-<h3 align="center">An undergraduate NLP researcher at the University of Washington</h3>
+<h3 align="center">An undergraduate ML+SE researcher at the University of Washington</h3>
 
 - 💼 I’m currently working **on my own project @ PLSE, previously @ H2lab
 
