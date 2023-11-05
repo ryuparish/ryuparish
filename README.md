@@ -1,9 +1,9 @@
 <h1 align="center">Ryu Parish 龍</h1>
 <h3 align="center">An undergraduate NLP researcher at the University of Washington</h3>
 
-- 💼 I’m currently working **on my own project @ PLSE, previously @ H2lab under Ellen Wu**
+- 💼 I’m currently working **on my own project @ PLSE, previously @ H2lab
 
-- 🤝 I’m looking to collaborate on **Neurosymbolic Programming related projects**
+- 🤝 I’m looking to collaborate on **Machine Learning for Code related projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryuparish](https://github.com/ryuparish)
 
