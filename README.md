@@ -1,9 +1,9 @@
 <h1 align="center">Ryu Parish 龍</h1>
 <h3 align="center">An undergraduate ML+SE researcher at the University of Washington</h3>
 
-- 💼 I’m currently working at @ PLSE, previously @ H2lab
+- 💼 I’m currently looking for a job, previously @ AWS (3 times), previously at @ PLSE, previously @ H2lab
 
-- 🤝 I’m looking to collaborate on **Machine Learning for Code related projects**
+- 🤝 I’m looking for a job in **Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryuparish](https://github.com/ryuparish)
 
