@@ -1,5 +1,5 @@
 <h1 align="center">Ryu Parish 龍</h1>
-<h3 align="center">A Software Engineer graduate from the University of Washington</h3>
+<h3 align="center">A Computer Science graduate from the University of Washington</h3>
 
 - 💼 I’m currently looking for a job, previously @ AWS (3 times), previously at @ PLSE, previously @ H2lab
 
