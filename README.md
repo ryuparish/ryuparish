@@ -9,7 +9,7 @@
 
 - 🔗 Look at my LinkedIn profile at [https://www.linkedin.com/in/ryu-parish-b8894b15b/](https://www.linkedin.com/in/ryu-parish-b8894b15b/)
 
-- 📫 How to reach me **rparish["".join(reversed("ta"))]cs.washington.edu**
+- 📫 How to reach me **ryuparish1115["".join(reversed("ta"))]gmail.com**
 
 - 🌐 Check out my website [here](https://ryuparish.github.io/ryus_website/)
 <h3 align="left">Connect with me:</h3>
